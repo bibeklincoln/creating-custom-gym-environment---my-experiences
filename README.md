@@ -36,7 +36,8 @@ Creating custom env for own project in gym can be tidious, well, at least was fo
 
 6. To complete the setup need to go back to the origin folder and run: pip3 install -e .  and following should happen:
 
-![image] file:///home/bibek/Pictures/Screenshot%20from%202021-04-09%2015-17-00.png![image](https://user-images.githubusercontent.com/7438736/114194884-d7f7c880-9947-11eb-8224-8358a0c76c94.png)
+![image] file:///home/bibek/Pictures/Screenshot%20from%202021-04-09%2015-30-20.png![image](https://user-images.githubusercontent.com/7438736/114195668-91569e00-9948-11eb-8f88-9ae23ef8dcf1.png)
+
 
 
 Yeah! we made it, aparently! Now you update the customEnv.py as per your project to work on. 
